@@ -1,14 +1,11 @@
 {
-    applinks: {
-        details: [
-            {
-                appIDs: ["35SAJSVYZ2.com.sidongmen.jp.universal-link-test"],
-                components: [
-               		{
-                	/: “*”
-                    }
-                ] 
-            }
-        ]
+    "applinks": {
+        "apps": [],
+        "details": [
+        {
+          "appID": "35SAJSVYZ2.com.sidongmen.jp.universal-link-test",
+          "paths": ["*"]
+        }
+      ]
     }
-}
+  }
